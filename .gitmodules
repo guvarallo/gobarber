@@ -1,0 +1,9 @@
+[submodule "gobarber-mobile"]
+	path = gobarber-mobile
+	url = https://github.com/guvarallo/gobarber-mobile
+[submodule "gobarber-backend"]
+	path = gobarber-backend
+	url = https://github.com/guvarallo/gobarber-backend
+[submodule "gobarber-frontend"]
+	path = gobarber-frontend
+	url = https://github.com/guvarallo/gobarber-frontend
